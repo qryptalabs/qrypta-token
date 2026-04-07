@@ -14,5 +14,23 @@ Initial public core repository release for Qrypta.
 - BNB Smart Chain Mainnet
 - Ethereum Mainnet
 
+## Deployment
+- BNB Smart Chain Mainnet deployed and verified
+- Ethereum Mainnet deployed and verified
+- Deployment date (BNB): 2026-01-25 07:01:17 UTC
+
 ## Notes
-This release is intended as the public technical review baseline for ecosystem partners, due diligence, and infrastructure listing processes.
+This release represents the public technical baseline for Qrypta as infrastructure on BNB Chain and Ethereum.
+
+It is intended for:
+- technical review
+- due diligence
+- ecosystem integrations
+- infrastructure listing processes (DappBay)
+
+## Repository Scope
+This repository focuses on:
+- deployed token contract
+- ABI
+- reproducible compilation environment
+- public technical validation surface
