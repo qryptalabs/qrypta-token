@@ -9,24 +9,7 @@ import "@openzeppelin/contracts/utils/cryptography/ECDSA.sol";
 import "@openzeppelin/contracts/utils/cryptography/MessageHashUtils.sol";
 /**
  * =================================================================================================
- *  ⚠️  QRYPTA LABS — PROPRIETARY / CONFIDENTIAL SOURCE CODE
- * =================================================================================================
- *  This smart contract and all of its contents (code, logic, architecture, and design) are the
- *  exclusive property of QRYPTA LABS.
- *
- *  PROHIBITED: copying, reproducing, duplicating, modifying, distributing, publishing, selling,
- *  sublicensing, or reusing this code — in whole or in part — without explicit written permission
- *  from QRYPTA LABS.
- *
- *  Any unauthorized reproduction or use may constitute copyright infringement, misappropriation,
- *  and/or unfair competition, and may result in civil and criminal legal action, including claims
- *  for damages.
- *
- *  Official contact: contact@qryptalabs.com
- *
- *  If you have obtained access to this code without authorization, you MUST cease all use immediately.
- * =================================================================================================
- */
+ *  
 
 /**
  * SP1 gateway/verifier interface:
